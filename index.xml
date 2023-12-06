@@ -5,7 +5,7 @@
     <link>https://armandnicolicioiu.github.io/</link>
       <atom:link href="https://armandnicolicioiu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Armand Nicolicioiu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://armandnicolicioiu.github.io/media/icon_hue19be52a69971ab7fbb8e26f3fe0f492_2733684_512x512_fill_lanczos_center_3.png</url>
       <title>Armand Nicolicioiu</title>
@@ -13,10 +13,102 @@
     </image>
     
     <item>
+      <title>Inductive Biases of Untrained Neural Networks</title>
+      <link>https://armandnicolicioiu.github.io/research/inductive-biases/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://armandnicolicioiu.github.io/research/inductive-biases/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shortcut Bias Mitigation via Ensemble Diversity Using Diffusion Probabilistic Models</title>
+      <link>https://armandnicolicioiu.github.io/research/diffusion-conference/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://armandnicolicioiu.github.io/research/diffusion-conference/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Diffusion Disentangled Representations to Mitigate Shortcuts in Underspecified Visual Tasks</title>
+      <link>https://armandnicolicioiu.github.io/research/diffusion-workshop/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://armandnicolicioiu.github.io/research/diffusion-workshop/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Diverse Features in Vision Transformers for Improved Generalization</title>
+      <link>https://armandnicolicioiu.github.io/research/diverse-vit/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://armandnicolicioiu.github.io/research/diverse-vit/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Diversifying Vision Transformers for Out-of-Distribution Generalization</title>
-      <link>https://armandnicolicioiu.github.io/research/ood-generalization/</link>
+      <link>https://armandnicolicioiu.github.io/report/ood-generalization/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://armandnicolicioiu.github.io/research/ood-generalization/</guid>
+      <guid>https://armandnicolicioiu.github.io/report/ood-generalization/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,9 +129,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Study on Topological Noise Invariant Features</title>
-      <link>https://armandnicolicioiu.github.io/research/geometry-icml/</link>
+      <link>https://armandnicolicioiu.github.io/report/geometry-icml/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://armandnicolicioiu.github.io/research/geometry-icml/</guid>
+      <guid>https://armandnicolicioiu.github.io/report/geometry-icml/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -137,9 +229,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Few shot learning by features adaptation with Graph Neural Networks</title>
-      <link>https://armandnicolicioiu.github.io/research/few-shot-gnn/</link>
+      <link>https://armandnicolicioiu.github.io/report/few-shot-gnn/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://armandnicolicioiu.github.io/research/few-shot-gnn/</guid>
+      <guid>https://armandnicolicioiu.github.io/report/few-shot-gnn/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
