@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Inductive Biases of Untrained Neural Networks</title>
+      <title>Neural Redshift: Random Networks are not Random Functions</title>
       <link>https://armandnicolicioiu.github.io/research/inductive-biases/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://armandnicolicioiu.github.io/research/inductive-biases/</guid>
@@ -268,9 +268,7 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;</description>
     </item>
     
     <item>
@@ -291,9 +289,7 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;</description>
     </item>
     
     <item>
